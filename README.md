@@ -11,7 +11,7 @@ A simple Valentine's Day website I wanted to try out. The whole thing is just on
 - A hidden **love letter** you can tap to read
 - Remembers if you've visited before
 
-## For dramatic effect, The page is one-time use i.e. after making a choice, the page now displays an emoji, based on the choice, on a blank page. You can use the dev flag "?dev=true" for building or testing [?dev=true].
+## ⚠️For dramatic effect, The page is one-time use i.e. after making a choice, the page now displays an emoji, based on the choice, on a blank page. You can use the dev flag "?dev=true" for building or testing [?dev=true].
 
 ## The process
 
